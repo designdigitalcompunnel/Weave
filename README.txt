@@ -1,3 +1,4 @@
-Weave: The Social Fabric Project website package
+Weave website package
+Open index.html for the homepage. Use Learn to navigate to understand-weaving.html. Keep both HTML files in the same folder.
 
-Open index.html to view the homepage. Use Learn in the main navigation to open understand-weaving.html. The inner page navigation links back to the homepage sections in index.html. Keep both HTML files in the same folder.
+Latest fix: Understand Weaving uses a full-bleed background image and no decorative image shape.
